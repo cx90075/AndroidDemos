@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.btn_bezier1:
                 startActivity(new Intent(this,BezierActivity1.class));
-
+                //test branch
                 break;
             case R.id.btn_bezier2:
 
